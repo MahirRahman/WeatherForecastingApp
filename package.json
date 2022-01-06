@@ -1,0 +1,11 @@
+{
+  "name": "weatherforecaster",
+  "version": "1.0.0",
+  "description": "Shows us the weather forecast",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahir Rahman",
+  "license": "ISC"
+}
